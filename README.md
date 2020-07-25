@@ -15,3 +15,6 @@ bash front_cam.sh
 ```bash
 bash back_cam.sh
 ```
+## Output
+
+1. ![output](front_and_back.png)
